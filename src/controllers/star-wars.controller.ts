@@ -30,9 +30,5 @@ export class StarWarsController {
     const character = await this.service.getCharcter(id);
     return character;
   }
-  @get('/characters/{id}/films')
-  async findFilmsById(@param.path.number('id') id: number): Promise<Personaje> {
-    const character = await this.service.getCharcter(id);
-    return character;
-  }
+
 }
