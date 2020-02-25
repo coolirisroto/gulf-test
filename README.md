@@ -81,7 +81,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **German MArtinez** - *Initial work* - [PurpleBooth](https://github.com/coolirisroto)
+* **German MArtinez** - *Initial work* - [Cooliris](https://github.com/coolirisroto)
 
 See also the list of [contributors](https://github.com/coolirisroto/gulf-test/contributors) who participated in this project.
 
