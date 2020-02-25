@@ -4,7 +4,7 @@
 
 # Gulf Test StarWars API
 
-This project was created for the technical test of the Gulf of Mexico.
+This project was created for the technical test of Gulf Mexico.
 
 
 ## Getting Started
@@ -16,8 +16,9 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Node npm
-npm i -g @loopback/cli
+Node
+npm
+Loopback cli  npm i -g @loopback/cli
 
 ```
 
@@ -37,7 +38,8 @@ And repeat
 npm run start
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+API documentation is in the following link:
+http://localhost:3000/explorer/#/StarWarsController/StarWarsController.find
 
 ## Running the tests
 
